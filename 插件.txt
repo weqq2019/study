@@ -1,0 +1,38 @@
+合计 16个
+
+常规的
+chinese simplified
+view in browser
+code runner
+Es7 react/redux/graphql/react-native snippets
+javascript (es6) code snippets
+python for vscode
+search node_modules
+sql server(mysql)
+vetur 
+
+开发vueAPP
+vue
+
+开发Angular app
+Angular 8 Snippets - TypeScript
+Angular Snippets(version 8)
+
+开发react APP
+react native tools
+typescript react code snippets
+react redux es6 snippets
+reactjs code snippets
+
+
+
+
+
+
+
+
+
+
+
+"editor.fontFamily": "Fira Code",
+
